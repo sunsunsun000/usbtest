@@ -21,7 +21,7 @@ public abstract class AccessoryCommunicator {
     private FileInputStream inStream;
     private FileOutputStream outStream;
     private boolean running;
-    private byte[] readBuffer = new byte[32 * 1024];
+    private byte[] readBuffer = new byte[16 * 1024];
 
     public AccessoryCommunicator(final Context context) {
         this.context = context;
