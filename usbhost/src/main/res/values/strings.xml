@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">usbhost</string>
+    <string name="local_prompt"><![CDATA[host> ]]></string>
+</resources>

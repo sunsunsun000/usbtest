@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">usbslave</string>
+    <string name="local_prompt_device"><![CDATA[device> ]]></string>
+</resources>

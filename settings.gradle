@@ -1,0 +1,2 @@
+include ':usbhost', ':usbslave'
+rootProject.name='usbtest'
