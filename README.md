@@ -1,0 +1,7 @@
+# usbtest
+android usb 相互通信
+
+使用方法,两个android设备通过USB线连接在一起,其中一台安装usbhost,另一台安装usbslave
+安装usbslave的打开USB调试,两者就能相互通信了
+
+usbhost4android实现的功能和usbhost类似,运行在linux系统上,可通过usb实现和android设备的通信,android设备安装usbslave并打开USB调试即可
